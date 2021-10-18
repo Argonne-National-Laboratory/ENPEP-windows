@@ -2,8 +2,6 @@
 
 # ENPEP for Windows
 
-## Overview
-
 The ENPEP for Windows model has its origins in the DOS version of the Energy and Power Evaluation Program (ENPEP), which was developed by Argonne National Laboratory (ANL) under the auspices of the U.S. Department of Energy (DOE) and the International Atomic Energy Agency (IAEA). However, ENPEP for Windows model is significantly modified and rather different in structure and capabilities from the older DOS version of ENPEP. It fully utilizes the Windows operating environment and provides the user with a graphical interface for designing a comprehensive model of the energy system of a country or region.
 
 
@@ -11,27 +9,23 @@ The ENPEP for Windows model has its origins in the DOS version of the Energy and
 * Source code repository: https://github.com/Argonne-National-Laboratory/ENPEP-windows
 * User guide: [PDF](docs/ENPEP-BALANCE_Manual_20070914.pdf)
 
-
 ## Installation
-The Bal.exe is a Windows program and is the back end for ENPEP Windows program and will be installed when ENPEP Windows is installed. 
+The Bal.exe in bin folder is a executable file that is the back end for ENPEP Windows program. Lunching the file will run the installation and model. 
 
 
-### Dependencies:
-* This is a part of ENPEP Windows and the necessary input files are created using the user interface of ENPEP Windows.  
+### Note:
+* The necessary input files are created by the user interface of ENPEP Windows.  
 
 ## Quick start
-
-The [config.json file](config.json) provided in the repository can be used to do a co-simulation after editing in the path names (with any text editor). Then open a command line prompt within the folder containing the **tdcosimapp.py** file (for e.g. by typing Shift+C+M+D) and run the following script to start the co-simulation.
-
-```
-windows console Bal.exe log_file.txt
-```
-### Use cases:
 Following example use cases are provided:
 1. Bal.exe log_file.txt (make sure that the files in the test Data folder are in the current directory 
+```
+windows console> cd <projectroot>/bin
+windows console> Bal.exe log_file.txt
+```
 
 ## Package details
-Technical information on the package can be found here:
+Technical information of the software can be found here:
 1. [ENPEP Windows](docs/ENPEP-BALANCE_Manual_20070914.pdf)
 
 ## Issues
