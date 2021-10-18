@@ -50,8 +50,6 @@ No support will be provided for any bugs or errors. The software is provided as 
 
 
 ## Acknowledgement
-We want to acknowledge [Shrirang Abhyankar](https://github.com/abhyshr) for his contributions to the code base development.
-
 We would like to recognize the support of the U.S. Department of Energy (DOE) and the International Atomic Energy Agency (IAEA). 
 
 
