@@ -1,0 +1,92 @@
+    1   DOM FEEDS       
+OUT LINK, PR PROJ            1    1
+INT, SL, QUAD COEFF 18.4520142        0.        0.
+BASEY QUANT AND CAPA  18638.54  1.00E+08
+    2   TET INSTR       
+OUT LINK, PR PROJ            2    2
+INT, SL, QUAD COEFF         0.        0.        0.
+BASEY QUANT AND CAPA        0.  1.00E+08
+    3   TEH INSHO       
+OUT LINK, PR PROJ            3    3
+INT, SL, QUAD COEFF         0.        0.        0.
+BASEY QUANT AND CAPA        0.  1.00E+08
+    4   TEO INSUL       
+OUT LINK, PR PROJ            4    4
+INT, SL, QUAD COEFF         0.        0.        0.
+BASEY QUANT AND CAPA        0.  1.00E+08
+    5   ELE WIND        
+OUT LINK, PR PROJ            5    5
+INT, SL, QUAD COEFF   .0136986        0.        0.
+BASEY QUANT AND CAPA        0.  7.30E+08
+    6   SF  LIG         
+OUT LINK, PR PROJ            6    6
+INT, SL, QUAD COEFF  6.5342322        0.        0.
+BASEY QUANT AND CAPA56036.4498  1.00E+08
+    7   SF  C           
+OUT LINK, PR PROJ            7    7
+INT, SL, QUAD COEFF   16.43832        0.        0.
+BASEY QUANT AND CAPA 6314.1569  1.00E+08
+    8   IMP COI         
+OUT LINK, PR PROJ            8    8
+INT, SL, QUAD COEFF 18.4520142        0.        0.
+BASEY QUANT AND CAPA133841.826  7.30E+08
+    9   DOM COD         
+OUT LINK, PR PROJ            9    9
+INT, SL, QUAD COEFF 18.4520142        0.        0.
+BASEY QUANT AND CAPA   3249.71  3.29E+03
+   10   IMP MG          
+OUT LINK, PR PROJ           10   10
+INT, SL, QUAD COEFF 44.6026416        0.        0.
+BASEY QUANT AND CAPA    351.49  1.00E+08
+   11   IMP DI          
+OUT LINK, PR PROJ           11   11
+INT, SL, QUAD COEFF 31.0821234        0.        0.
+BASEY QUANT AND CAPA  17315.11  1.00E+08
+   12   IMP FO          
+OUT LINK, PR PROJ           12   12
+INT, SL, QUAD COEFF 20.6711874        0.        0.
+BASEY QUANT AND CAPA    3048.1  1.00E+08
+   13   IMP LPG         
+OUT LINK, PR PROJ           13   13
+INT, SL, QUAD COEFF 30.3150018        0.        0.
+BASEY QUANT AND CAPA        0.  1.00E+08
+   14   IMP NPTH        
+OUT LINK, PR PROJ           14   14
+INT, SL, QUAD COEFF 20.6711874        0.        0.
+BASEY QUANT AND CAPA        0.  1.00E+08
+   15   IMP OTI         
+OUT LINK, PR PROJ           15   15
+INT, SL, QUAD COEFF 20.6711874        0.        0.
+BASEY QUANT AND CAPA    3102.5  1.00E+08
+   16   IMP JF          
+OUT LINK, PR PROJ           16   16
+INT, SL, QUAD COEFF 24.1917276        0.        0.
+BASEY QUANT AND CAPA   629.716  1.00E+08
+   17   REN ISAIR       
+OUT LINK, PR PROJ           17   17
+INT, SL, QUAD COEFF         .1        0.        0.
+BASEY QUANT AND CAPA       61.  1.00E+08
+   18   REN WAT         
+OUT LINK, PR PROJ           18   18
+INT, SL, QUAD COEFF         .1        0.        0.
+BASEY QUANT AND CAPA 3212.3139  4.83E+03
+   19   GAS NG          
+OUT LINK, PR PROJ           19   19
+INT, SL, QUAD COEFF 22.8522785        0.        0.
+BASEY QUANT AND CAPA1587.25725  1.00E+08
+   20   ELI IMEL        
+OUT LINK, PR PROJ           20   20
+INT, SL, QUAD COEFF    82.1916        0.        0.
+BASEY QUANT AND CAPA 1884.1738  1.00E+08
+   21   TEP TPUIN       
+OUT LINK, PR PROJ           21   21
+INT, SL, QUAD COEFF         0.        0.        0.
+BASEY QUANT AND CAPA        0.  1.00E+08
+   22   REB INWCH       
+OUT LINK, PR PROJ           22   22
+INT, SL, QUAD COEFF         0.        0.        0.
+BASEY QUANT AND CAPA        0.  1.00E+08
+   23   REB INNCH       
+OUT LINK, PR PROJ           23   23
+INT, SL, QUAD COEFF         0.        0.        0.
+BASEY QUANT AND CAPA        0.  1.00E+08

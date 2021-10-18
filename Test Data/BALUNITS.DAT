@@ -1,0 +1,17 @@
+CI'$1000'1'Thousands of US Dollars
+EMI_FACT'kg/Gj'1'Kilogram per Gigajoule
+EMI_FACTEL'kg/Gj'1'Kilogram per Gigajoule
+EMI_TAX'$/tonne'1'US Dollars per metric tonne
+EMISSIONS'tonne'1'Metric tonnes
+PR'$/BOE'1'US Dollars per Barrel of Oil Equivalent
+PR_ECC'$/kW'1'US Dollars per KiloWatt
+PR_EFOM'$/kW-Year'1'US Dollars per KiloWatt-Year
+PR_ELOD'$/MWh'1'US Dollars per MegaWatt-hour
+PR_EVOM'$/MWh'1'US Dollars per MegaWatt-hour
+QT'kBOE'1'Thousands of Barrels of Oil Equivalent
+QT_EBYP'kBOE'1'Thousands of Barrels of Oil Equivalent
+QT_EHCAP'MW-Year'1'MegaWatt-Year
+QT_EL_GEN'MWh'1'Megawatt-hour
+QT_ETCAP'MW'1'MegaWatt
+TC_EHRA'BTU/kWh'1'British Thermal Units per KiloWatt-hour
+
