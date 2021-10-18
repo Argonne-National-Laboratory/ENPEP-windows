@@ -1,12 +1,14 @@
 **Status:** This is a legacy software and no further enhancements or modifications will be made.
 
-# This is back end "Balance" program for ENPEP for Windows available at https://anl.app.box.com/s/ifdzmym0qzjq442x929h
+# ENPEP for Windows
+
+## Overview
 
 The ENPEP for Windows model has its origins in the DOS version of the Energy and Power Evaluation Program (ENPEP), which was developed by Argonne National Laboratory (ANL) under the auspices of the U.S. Department of Energy (DOE) and the International Atomic Energy Agency (IAEA). However, ENPEP for Windows model is significantly modified and rather different in structure and capabilities from the older DOS version of ENPEP. It fully utilizes the Windows operating environment and provides the user with a graphical interface for designing a comprehensive model of the energy system of a country or region.
 
 
 ## Links
-* Source code repository: https://github.com/xxxxxxxxxxxxxxxxxxxxxx
+* Source code repository: https://github.com/Argonne-National-Laboratory/ENPEP-windows
 * User guide: [PDF](docs/ENPEP-BALANCE_Manual_20070914.pdf)
 
 
